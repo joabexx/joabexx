@@ -48,6 +48,7 @@ Aprofundando meus conhecimentos em programação, desenvolvimento de sistemas e 
 ## 📬 Vamos nos conectar?
 
 - 📷 **Instagram:** (https://www.instagram.com/joabxx)
+- 📧 **e-mail:**  Joabegomestx@gmail.com
 - 💻 **GitHub:** Você já está aqui! 😄
 
 ---
