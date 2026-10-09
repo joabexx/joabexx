@@ -11,17 +11,17 @@ Aqui compartilho meus projetos, atividades acadêmicas, experiências e aprendiz
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-- 🎓 Graduando em **Sistemas de Informação**.
-- 💻 Trabalho com informática e tecnologia na educação.
-- 🧠 Sempre buscando aprender, resolver problemas e evoluir na programação.
-- 🛠️ Desenvolvendo projetos acadêmicos e colocando meus conhecimentos em prática.
-- 🎯 Meu objetivo é crescer como desenvolvedor e construir minha carreira na área de tecnologia.
+-  Graduando em **Sistemas de Informação**.
+-  Trabalho com informática e tecnologia na educação.
+-  Sempre buscando aprender, resolver problemas e evoluir na programação.
+-  Desenvolvendo projetos acadêmicos e colocando meus conhecimentos em prática.
+-  Meu objetivo é crescer como desenvolvedor e construir minha carreira na área de tecnologia.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 ### 💻 Linguagens
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,7 +39,7 @@ Aqui compartilho meus projetos, atividades acadêmicas, experiências e aprendiz
 
 ---
 
-## 📚 Atualmente
+##  Atualmente
 
 Aprofundando meus conhecimentos em programação, desenvolvimento de sistemas e boas práticas de desenvolvimento. Cada projeto é uma oportunidade de aprender algo novo e evoluir.
 
